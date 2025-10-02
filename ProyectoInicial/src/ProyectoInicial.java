@@ -4,13 +4,12 @@ public class ProyectoInicial {
 
     public static void main(String[] args) {
 
-        System.out.println("Este es mi segundo proyecto");
+        System.out.println("Este es \nmi segundo proyecto");
 
     //TODO Prueba del todo
 
 
     }
  }
-}
 
 
